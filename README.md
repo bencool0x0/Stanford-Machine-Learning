@@ -1,8 +1,8 @@
 # Stanford-Machine-Learning
 my code for the Stanford ML class
 
-Some of the code isn't mine, such as the plotData and submit files. However, I included them because they're used for running the overall tests.
+Some of the code isn't mine, such as the plotData and submit files. However, I included them because they're used for running the overall tests (ex1 and ex1_multi).
 
-I will mention if I didn't write the code in the descriptions
+Code not in the ex1 folder isn't written by me.
 
 This is my first time working with Octave and Machine Learning, how exciting!

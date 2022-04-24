@@ -5,4 +5,4 @@ Some of the code isn't mine, such as the plotData and submit files. However, I i
 
 Code not in the ex1 folder isn't written by me.
 
-This is my first time working with Octave and Machine Learning, how exciting!
+
